@@ -209,35 +209,36 @@ for movie in movies:
 ```
 
 ```output
+Root element : New Arrivals
 *****Movie*****
 Title: Enemy Behind
 Type: War, Thriller
 Format: DVD
-Year: 2003
 Rating: PG
-Stars: 10
 Description: Talk about a US-Japan war
 *****Movie*****
 Title: Transformers
 Type: Anime, Science Fiction
 Format: DVD
-Year: 1989
 Rating: R
-Stars: 8
 Description: A schientific fiction
 *****Movie*****
 Title: Trigun
 Type: Anime, Action
 Format: DVD
 Rating: PG
-Stars: 10
 Description: Vash the Stampede!
 *****Movie*****
 Title: Ishtar
 Type: Comedy
 Format: VHS
 Rating: PG
-Stars: 2
 Description: Viewable boredom
+*****Movie*****
+Title: Ishtar
+Type: Action
+Format: Enthiran
+Rating: PG
+Description: A schientific fiction
 ```
 
